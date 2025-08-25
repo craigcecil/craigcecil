@@ -6,5 +6,5 @@ I've previously worked at Northrop Grumman, Lockheed Martin, Peraton, and Verizo
 
 - 🔭 I’m currently working on the UEF Design System for the Social Security Administration (SSA) and integrating AI workflows into the system.
 - 🌱 I’m currently learning how to leverage LLMs, prompt engineering, and workflows for maximum returns.
-- 📫 How to reach me: www.craigcecil.comm
+- 📫 How to reach me: www.craigcecil.com
 - ⚡ Fun fact: I obtained my superpowers at age 14 when I was struck by lightning.
