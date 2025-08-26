@@ -14,7 +14,8 @@ I've previously worked at Northrop Grumman, Lockheed Martin, Peraton, and Verizo
 <div align="left">
 
 - **[Genesys](https://github.com/SSAgov/genesys)** - Creator of this design in the browser toolkit.
-- **[Genesys Snippets](https://github.com/SSAgov/genesys-vscode-extension)** - I'm the creator of this.
+- **[Genesys Snippets](https://github.com/SSAgov/genesys-vscode-extension)** - I'm the creator and curator of this extension.
 - **[UEF Snippets](https://github.com/SSAgov/uef-vscode-extension)** - I'm the author of this set of User Experience Framework (UEF) Snippets for Visual Studio Code.
+- **[VSCode Design in the Browser Pack](https://github.com/craigcecil/vscode-design-in-browser-pack)** - I'm the creator and curator of this extension.
 
 </div>
